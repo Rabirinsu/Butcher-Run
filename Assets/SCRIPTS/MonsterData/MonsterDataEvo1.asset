@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756f8ffbed2676e4d91aae14eef5f2e1, type: 3}
+  m_Name: MonsterDataEvo1
+  m_EditorClassIdentifier: 
+  stats:
+    Attack: 5
+    HP: 1
+    CritChance: 0.1
+    CritRate: 1.5
+    AttackSpeed: 1
+    AttackRange: 0
+  Evolation: 0
+  Type: 0
+  skillType: 0
+  avatar: {fileID: 0}
+  WalkSpeed: 3
+  Resource: {fileID: 7085296223504506649, guid: 156f844f78004dc42875d31b5d4535ff, type: 3}
